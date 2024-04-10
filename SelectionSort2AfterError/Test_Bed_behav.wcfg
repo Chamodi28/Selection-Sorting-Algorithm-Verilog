@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Test_Bed_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Test_Bed" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="1000000001fs"></ZoomEndTime>
+      <Cursor1Time time="1000000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="91"></NameColumnWidth>
+      <ValueColumnWidth column_width="68"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="16" />
+   <wvobject fp_name="/Test_Bed/clock" type="logic">
+      <obj_property name="ElementShortName">clock</obj_property>
+      <obj_property name="ObjectShortName">clock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test_Bed/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test_Bed/start" type="logic">
+      <obj_property name="ElementShortName">start</obj_property>
+      <obj_property name="ObjectShortName">start</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test_Bed/a0" type="array">
+      <obj_property name="ElementShortName">a0[15:0]</obj_property>
+      <obj_property name="ObjectShortName">a0[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test_Bed/a1" type="array">
+      <obj_property name="ElementShortName">a1[15:0]</obj_property>
+      <obj_property name="ObjectShortName">a1[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test_Bed/a2" type="array">
+      <obj_property name="ElementShortName">a2[15:0]</obj_property>
+      <obj_property name="ObjectShortName">a2[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test_Bed/a3" type="array">
+      <obj_property name="ElementShortName">a3[15:0]</obj_property>
+      <obj_property name="ObjectShortName">a3[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test_Bed/a4" type="array">
+      <obj_property name="ElementShortName">a4[15:0]</obj_property>
+      <obj_property name="ObjectShortName">a4[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test_Bed/a5" type="array">
+      <obj_property name="ElementShortName">a5[15:0]</obj_property>
+      <obj_property name="ObjectShortName">a5[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test_Bed/b0" type="array">
+      <obj_property name="ElementShortName">b0[15:0]</obj_property>
+      <obj_property name="ObjectShortName">b0[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test_Bed/b1" type="array">
+      <obj_property name="ElementShortName">b1[15:0]</obj_property>
+      <obj_property name="ObjectShortName">b1[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test_Bed/b2" type="array">
+      <obj_property name="ElementShortName">b2[15:0]</obj_property>
+      <obj_property name="ObjectShortName">b2[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test_Bed/b3" type="array">
+      <obj_property name="ElementShortName">b3[15:0]</obj_property>
+      <obj_property name="ObjectShortName">b3[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test_Bed/b4" type="array">
+      <obj_property name="ElementShortName">b4[15:0]</obj_property>
+      <obj_property name="ObjectShortName">b4[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test_Bed/b5" type="array">
+      <obj_property name="ElementShortName">b5[15:0]</obj_property>
+      <obj_property name="ObjectShortName">b5[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test_Bed/valid" type="logic">
+      <obj_property name="ElementShortName">valid</obj_property>
+      <obj_property name="ObjectShortName">valid</obj_property>
+   </wvobject>
+</wave_config>
